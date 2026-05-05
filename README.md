@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hi there, I am Ruthwik👋
 
-<!--
-**neon-commits01/neon-commits01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ **Goal:** AI/ML Engineer 
+🎓 **Education:** BITS Pilani M.Sc AI & Data Science  
+📍 **Location:** Open to remote worldwide  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I'm Currently Doing
+
+- 🧠 Learning **Python, Linux, CS50P** — foundations first
+- 🤖 Diving into **Machine Learning & GenAI/LLM systems**
+- 🔨 Building real projects — not just watching tutorials
+
+---
+
+## 📂 Featured Projects
+
+🔧 **CLI File Organizer** — A lightweight command-line tool to organize files automatically  
+🤖 *More ML projects coming soon...*
+
+---
+
+💬 Always open to connecting with fellow ML engineers and builders.
