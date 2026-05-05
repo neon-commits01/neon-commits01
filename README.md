@@ -1,4 +1,4 @@
-## Hi there, I am Ruthwik👋
+## Hi there, I am Mark👋
 
  **Goal:** AI/ML Engineer 
 🎓 **Education:** BITS Pilani M.Sc AI & Data Science  
