@@ -8,7 +8,7 @@
 
 ## 🚀 What I'm Currently Doing
 
-- 🧠 Learning **Python, Linux, CS50P** — foundations first
+- 🧠 Learning **ML model training and deployment** 
 - 🤖 Diving into **Machine Learning & GenAI/LLM systems**
 - 🔨 Building real projects — not just watching tutorials
 
